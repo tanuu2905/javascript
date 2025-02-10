@@ -21,6 +21,28 @@ const newStringOne = "   Tanu    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
+const url = "tanuydvgoogle.com"
+console.log(url.replace("ydv", "_"));
+console.log(url);
+console.log(url.includes("goo"));
+console.log(url.includes("idli"));
+const str = 'The quick brown fox jumps over the lazy dog.';
+console.log(str.split());
+console.log(str.split(" "));
+console.log(str.split(" ", 4));
+console.log(str.split(''));
+console.log(str.split('',4));
+const str22=  str.split(" ")
+console.log(str22[4]);
+
+
+
+
+
+
+
+
+
 
 
 
