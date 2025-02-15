@@ -46,5 +46,8 @@ const arrow3 = (num1, num2) =>  num1+num2
    console.log(arrow3(2,7));
 
 // if parenthesis is used don't  write return but if curly brakets is used then it is mandatory to write return
+
+const arrow4 = () => ({msg : "hello"})
+
                                   
 
